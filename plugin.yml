@@ -1,0 +1,8 @@
+﻿name: AerryChatAdmin
+main: tw.Aerry.bukkit.ChatAdmin.chat
+author: Aerry
+description: ChatAdmin
+version: 1.8
+commands:
+  aerrychrl:
+    description: 重讀
